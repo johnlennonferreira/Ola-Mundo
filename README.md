@@ -1,3 +1,3 @@
 # Olá,Mundo!
-Segundo repositório versionado
+Segundo repositório versionado.
 Repositório criado em uma aula de experimento.
